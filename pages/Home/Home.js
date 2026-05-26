@@ -8,7 +8,8 @@ export const Home = () => {
     <section class="home">
     <p>Hey, I'm</p>
     <h1>Manuel Caro</h1>
-    <p>I'm a software development student living in Almería, Spain. I currently combine my current job (hydroelectric power plant specialist) with my software development studies (DAM & Full Stack Development). I enjoy creating content for the internet, whether it's websites, apps, or anything else. I've been studying for a year and am gaining significant experience and valuable knowledge in various fields through my projects and work.</p>
+    <p>I'm a full-stack developer based in Almería, Spain, open to remote work. I've recently completed a Higher Diploma in Multiplatform App Development (DAM) and a Full-Stack Web Development Master's, and finished a placement at Trainingym, where I worked on a production Angular + TypeScript application and connected it to the team's .NET REST APIs.
+I love building things for the web and mobile — from frontend interfaces with Angular to mobile apps with Flutter. Coming from 20+ years in the energy sector, I bring a builder's mindset, a habit of learning fast and a focus on shipping reliable work. The projects below are work from my Full-Stack Master's, along with Ghost Tennis — my DAM final project — a social tennis app built with Flutter and Supabase.</p>
     <a href="mailto:manuelcaro.dev@gmail.com">Say hi →</a>
     </section>`;
 };
