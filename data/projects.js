@@ -62,4 +62,13 @@ export const projects = [
     github: "https://github.com/ManuelCaroDev/proyecto_3_asincrono",
     link: "https://snapfinder.vercel.app/",
   },
+  {
+    title: "Capstone project (DAM): Ghost Tennis",
+    description: "Gesture-based sports social network",
+    image:
+      "/images/logo_gt.png",
+    tech: ["Flutter", "Dart", "Supabase", "PostgreSQL"],
+    github: "https://github.com/ManuelCaroDev/GhostTennis",
+    link: "https://github.com/ManuelCaroDev/GhostTennis/releases/download/V1.0.0/GhostTennis_V1.apk",
+  },
 ];
